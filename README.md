@@ -11,8 +11,11 @@ Pretty much all the fundamental areas you need to learn or should know about whe
 
 #### ForrestKnight The Open Source Computer Science Degree
 [Link to ForrestKnight's Youtube Channel](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
-(https://github.com/ForrestKnight/open-source-cs#computer-science-basics)
+ForrestKnight's Github (https://github.com/ForrestKnight/open-source-cs#computer-science-basics)
 
 #### Joshua Fluke
 Self taught web developer who offers great career advice on being a web developer
 [Link to his Youtube Channel](https://www.youtube.com/user/Tychos1)
+
+#### Mayuko
+Software developer in the bay area who has great videos on what the life of a software engineer entails and advice for anyone who is becoming a software engineer. [Link To Mayuko's YT Channel](https://www.youtube.com/user/hellomayuko)
